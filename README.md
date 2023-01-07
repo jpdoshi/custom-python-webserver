@@ -8,18 +8,17 @@ A custom web server written in python 3
 # Features
 - No need to install packages to run
 - Fully customizable code
-- Transparent python code
-- Blazing Performance
+- Router implemented
+- Blazing Fast Performance
 - Robust, Flexible
 - Lightweight
 
 # Why use it?
 - This is just a basic web server implemented with http.server
-- One can implement their own algorithms
-- Code can easily be altered
+- One can implement their own algorithm
+- Code is transparent and can easily be altered
 
 # What next?
 - Implement your own server gateway interface
-- Setup async operations
-- Setup portable database
+- Setup portable database such as sqlite3
 - Make python code accessible in html template
